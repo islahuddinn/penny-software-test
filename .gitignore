@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+.angular/
+.idea/
+.DS_Store
+
+# Local assessment materials (keep out of submission repo)
+*.pdf
+Penny_Fullstack_Candidate_Assessment.pdf
+SUBMISSION_BRIEF.md
+INTERVIEW_NOTES.md
+notes/
+demo-recording/
