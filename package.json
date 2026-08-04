@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "license": "UNLICENSED",
-  "description": "Take-home exercise: Change Request approval — backend service + Angular UI (fullstack).",
+  "description": "Take-home exercise: Change Request approval \u2014 backend service + Angular UI (fullstack).",
   "engines": {
     "node": ">=18.20.0 <19"
   },
   "scripts": {
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "node init && ng serve",
+    "build": "node init && ng build",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "jest",
     "test:watch": "jest --watch",
